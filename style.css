@@ -187,7 +187,7 @@ audio::-webkit-media-controls-current-time-display {
  .boton2 {
     border: 1px solid var(--color-principal);
     background-color: var(--color-principal);
-    color: var(--color-secundario);
+    color: var(--color-terciario);
     padding: 10px 30PX;
     text-decoration: none;
     margin-top:0px;
